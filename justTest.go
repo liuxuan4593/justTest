@@ -1,12 +1,5 @@
-package main
-
-import (
-	"fmt"
-)
+package justTest
 
 func Liuxuan() {
-	fmt.Println("这是一个测试")
-}
-func main() {
-	fmt.Println("HELLO啊")
+	Println("这是一个测试")
 }
